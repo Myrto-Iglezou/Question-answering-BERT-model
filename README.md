@@ -20,10 +20,11 @@ data = {"data":
         {"title": "Tesla's Biography",
          "paragraphs": [
              {
-                 "context": "Romeo and Juliet is a tragedy written by William Shakespeare early in his career"
-                            "about two young Italian star-crossed lovers whose deaths ultimately reconcile their feuding families."
-                            "It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet,"
-                            "is one of his most frequently performed plays.",                            
+                 "context": "Romeo and Juliet is a tragedy written by William Shakespeare early"
+                            "in his career about two young Italian star-crossed lovers"
+                            "whose deaths ultimately reconcile their feuding families."
+                            "It was among Shakespeare's most popular plays during his lifetime and,"
+                            "along with Hamlet, is one of his most frequently performed plays.",                            
                  "qas": [
                      {"question": "Who wrote Romeo and Juliet?",
                       "id": "Q1",

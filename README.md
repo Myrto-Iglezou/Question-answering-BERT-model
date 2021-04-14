@@ -22,8 +22,7 @@ Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, 
                  "context": "Romeo and Juliet is a tragedy written by William Shakespeare early in his career"
                             "about two young Italian star-crossed lovers whose deaths ultimately reconcile their feuding families."
                             "It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet,"
-                            "is one of his most frequently performed plays.",
-                            
+                            "is one of his most frequently performed plays.",                            
                  "qas": [
                      {"question": "Who wrote Romeo and Juliet?",
                       "id": "Q1",
@@ -33,7 +32,7 @@ Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, 
 
 * Answer:
 
-Q: Who wrote Romeo and Juliet?
+`Q: Who wrote Romeo and Juliet?
 A: William Shakespeare
-----------------------------------------
+----------------------------------------`
 

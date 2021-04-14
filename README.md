@@ -14,7 +14,8 @@ Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, 
 
 * Data given:
 
-`data = {"data":
+```
+data = {"data":
     [
         {"title": "Tesla's Biography",
          "paragraphs": [
@@ -28,11 +29,14 @@ Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, 
                       "id": "Q1",
                       "answers":""
                       },
-                 ]}]}]} `
+                 ]}]}]} 
+```
 
 * Answer:
 
-`Q: Who wrote Romeo and Juliet?
+```
+Q: Who wrote Romeo and Juliet?
 A: William Shakespeare
-----------------------------------------`
+----------------------------------------
+```
 
